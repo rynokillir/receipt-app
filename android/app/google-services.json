@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537141462543",
+    "project_id": "receipt-app-c94fd",
+    "storage_bucket": "receipt-app-c94fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537141462543:android:b43ff2491d112a0322857a",
+        "android_client_info": {
+          "package_name": "com.example.receipt_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgIfvW1NPQtIEix95JuHk7q18FXyeyPPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
